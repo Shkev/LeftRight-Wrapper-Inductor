@@ -1,0 +1,9 @@
+[
+    {
+        "file_path": "websites/basic_ex.html",
+        "labels": [
+            ["country", [49, 54]],
+            ["code", [62, 65]]
+        ]
+    }
+]

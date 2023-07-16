@@ -1,0 +1,36 @@
+[
+    {
+        "id": "0",
+        "name": "Peter Abbamonte",
+        "url": "https://physics.illinois.edu/people/directory/profile/abbamont",
+        "file_path": "websites/peter_abbamonte_physics_uiuc.html",
+        "labels": [
+            ["name", [75, 90]],
+            ["department", [94, 101]],
+            ["institution", [104, 108]],
+            ["research interests", [29192, 29216]],
+            ["title", [29303, 29338]],
+            ["phone", [29373, 29387]],
+            ["email", [29452, 29473]],
+            ["office", [29504, 29537]],
+            ["alma mater", [29740, 29808]]
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Peter Adshead",
+        "url": "https://physics.illinois.edu/people/directory/profile/adshead",
+        "file_path": "websites/peter_adshead_physics_uiuc.html",
+        "labels": [
+            ["name", [75, 88]],
+            ["department", [92, 99]],
+            ["institution", [102, 106]],
+            ["research interests", [29172, 29209]],
+            ["title", [29296, 29315]],
+            ["phone", [29350, 29364]],
+            ["email", [29406, 29426]],
+            ["office", [29479, 29501]],
+            ["alma mater", [29724, 29885]]
+        ]
+    }
+]
